@@ -19,3 +19,7 @@ body{
   font-size: 35px;
   color: #000;
 }
+
+.card:hover{
+  background-color: aliceblue !important
+}
